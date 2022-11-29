@@ -1,1 +1,1 @@
- My not even empty file 
+ My cool empty file 
